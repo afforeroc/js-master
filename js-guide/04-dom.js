@@ -1,6 +1,7 @@
 'use strict'
 
 // DOM : Document Object Model
+
 // Function over one div
 /*
 function changeBackgroundColor(color1, color2) {
